@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Matteona.ttf",
+      "sha1": "ec0f8603caea602f10d11c7a0a431489dd800657"
+    },
+    {
+      "path": "src/assets/fonts/quincycf-bold.otf",
+      "sha1": "5335dad73e37fc23aa49dbdd72c0504243e2ab37"
+    },
+    {
+      "path": "src/assets/fonts/quincycf-medium.otf",
+      "sha1": "c4847593009dd557cc734cdb3c260475e4ccf277"
+    },
+    {
+      "path": "src/assets/fonts/quincycf-regular.otf",
+      "sha1": "24d69b39144d9a33c53cab37d787044158cfa505"
+    }
+  ]
+}
